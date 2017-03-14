@@ -1,7 +1,7 @@
 # TraText
 TraText - (Yandex API)
 
-Metinlerin kullanıcının lokasyon bilgisine göre o dile çevirisini yapar. 
+Metinleri kullanıcının lokasyon bilgisine göre o dile çevirisini yapar. 
 
 --> Kullanıcının lokasyonunu alır.
 
